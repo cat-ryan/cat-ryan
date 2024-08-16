@@ -1,0 +1,8 @@
+# Mac
+.DS_Store
+
+# ignore files in temp directory
+temp/
+
+# ignore .log files
+*.log
